@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Ecom_csit</title>
+    <title>EcoGreens_csit</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap"
@@ -100,7 +100,7 @@
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i> Ecomcsit5thproject@gmail.com</li>
+                <li><i class="fa fa-envelope"></i> Ecogreens@gmail.com</li>
                 <li>Shop best products from anywhere at affordable cost</li>
             </ul>
         </div>
@@ -115,7 +115,7 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                 <li><i class="fa fa-envelope"></i> Ecomcsit5thproject@gmail.com</li>
+                                 <li><i class="fa fa-envelope"></i> Ecogreens@gmail.com</li>
                 <li>Shop best plants from anywhere at affordable cost</li>
                             </ul>
                         </div>

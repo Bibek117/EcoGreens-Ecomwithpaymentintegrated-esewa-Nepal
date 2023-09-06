@@ -1,15 +1,17 @@
-# Laravel 9 & React js - Ecommerce application
+# EcoGreens (Ecommerce application with esewa integration)
+## build with laravel 9 and react
+### Note: not for commerical use 
 
 ## Screenshots
 
-![preview img](/preview.png)
+![preview img](/previewecom.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/ecommerce-youtube.git project-name
+  git clone https://github.com/Bibek117/EcoGreens-Ecomwithpaymentintegrated-esewa-Nepal.git project-name
 ```
 
 Go to the project directory
@@ -35,8 +37,19 @@ Go to the project directory
 ```bash
     php artisan storage:link
 ```
-
+```bash
+    php npm install
+```
+```bash
+    php npm run watch
+```
 #### Login
 
 -   email = admin@example.com
 -   password = 123
+
+### Esewa 
+
+-  id =  9806800001
+-  password = Nepal@123
+-  token = 123456

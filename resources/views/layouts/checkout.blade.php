@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
      <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Ecom_csit</title>
+    <title>EcoGreens- CSIT</title>
 
     <!-- Google Font -->
     <link
@@ -61,7 +61,7 @@
               <ul>
                 <li>Address: 60-49 Road 11378 New York</li>
                 <li>Phone: +65 11.188.888</li>
-                <li>Email: hello@colorlib.com</li>
+                <li>Email: Ecogreens@gmail.com</li>
               </ul>
             </div>
           </div>
