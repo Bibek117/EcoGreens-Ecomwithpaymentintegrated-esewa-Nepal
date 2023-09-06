@@ -38,10 +38,10 @@ Go to the project directory
     php artisan storage:link
 ```
 ```bash
-    php npm install
+     npm install
 ```
 ```bash
-    php npm run watch
+     npm run watch
 ```
 #### Login
 
