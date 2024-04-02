@@ -43,4 +43,8 @@ class Product extends Model implements HasMedia
     public function tags(){
         return $this->belongsToMany(Tag::class);
     }
+
+    public function orderitem(){
+        return $this->hasMany(OrderItem::class);
+    }
 }
