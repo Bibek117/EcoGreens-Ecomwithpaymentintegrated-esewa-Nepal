@@ -37,7 +37,7 @@
                                             <span class="badge badge-primary"> {{ $tag->name  }}</span>
                                         @endforeach
                                     </td>
-                                    <td>${{ number_format($product->price, 2) }}</td>
+                                    <td>Rs {{ number_format($product->price, 2) }}</td>
                                     <td>{{ $product->quantity }}</td>
                                     <td>
                                         @if(count($product->gallery)  > 0)
